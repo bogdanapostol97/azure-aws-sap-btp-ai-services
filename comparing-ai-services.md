@@ -1,4 +1,4 @@
-<h1> Guide to AI Services in Azure, AWS, and SAP BTP </h1>
+<h1> Guide to AI services in Azure, AWS, and SAP BTP </h1>
 
 <h2> Introduction </h2>
 This guide provides a comparative overview of the artificial intelligence (AI) services offered by Microsoft Azure, Amazon Web Services (AWS), and SAP Business Technology Platform (BTP). It is designed to be easily understood by beginners and practical for use in technical account management roles.
